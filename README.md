@@ -11,9 +11,9 @@
 <br>
 
 ```
-git clone https://github.com/tonyhan18/REACT_FOR_BACK.git<br>
-npm install<br>
-npm ci<br>
+git clone https://github.com/tonyhan18/REACT_FOR_BACK.git
+npm install
+npm ci
 ```
 
 <br>
