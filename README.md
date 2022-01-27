@@ -5,14 +5,17 @@
 코드가 중간에 업데이트 될 수 있습니다.<br>
 <br>
 <br>
+
 # 실행방법<br>
 
 <br>
-```js<br>
+
+```
 git clone https://github.com/tonyhan18/REACT_FOR_BACK.git<br>
 npm install<br>
 npm ci<br>
-```<br>
+```
+
 <br>
 혹시나 잘 안되면 언제든 Issue에 남겨주세요<br>
 <br>
